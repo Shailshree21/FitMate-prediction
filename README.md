@@ -17,18 +17,22 @@ Installation
 1. Clone the repository:
    ![image](https://github.com/user-attachments/assets/77247584-07c9-45bb-b496-f593de4114d0)
 
+
 2. Install the required packages:
    ![image](https://github.com/user-attachments/assets/0543b811-e005-42e6-9a9f-e51d4bf7741c)
 
    ![image](https://github.com/user-attachments/assets/f2e8b586-d2ce-47a6-8ffe-69eb1ed5b1a7)
 
-4. Download or create the rf_model.pkl file containing the pre-trained Random Forest model and place it in the project directory
+3.  Download or create the rf_model.pkl file containing the pre-trained Random Forest model and place it in the project directory
    1. Run the Gradio interface:
+      
     ![image](https://github.com/user-attachments/assets/2aa82fe0-9d0a-4753-be44-2149dbae6175)
+
+
     Ensure that you replace app.py with the name of the file containing the Gradio code.
 
-5. Open your web browser and navigate to the URL provided in the terminal (usually http://localhost:7860).
+4. Open your web browser and navigate to the URL provided in the terminal (usually http://localhost:7860).
 
-6. Enter your details (age, height, current weight, activity level, caloric intake) into the input fields.
+5. Enter your details (age, height, current weight, activity level, caloric intake) into the input fields.
 
-7. Click the "Submit" button to see your predicted future weight.
+6. Click the "Submit" button to see your predicted future weight.
